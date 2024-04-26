@@ -25,7 +25,7 @@ export function App() {
           href="https://vitejs.dev"
         />
       </section>
-      <Button appName="1123">
+      <Button appname="1123">
         <span>Click me!</span>
       </Button>
     </div>
